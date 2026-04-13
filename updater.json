@@ -1,1 +1,20 @@
 
+{
+  "version": "0.1.1",
+  "notes": "Bản cập nhật tối ưu hóa lõi AI Cô Tấm và giao diện Live Chat.",
+  "pub_date": "2026-04-13T17:00:00Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "chữ_ký_của_file_dmg_hoặc_tar_gz",
+      "url": "https://github.com/TamTuyet/cotamai/releases/download/v0.1.1/CoTamAi_0.1.1_aarch64.dmg"
+    },
+    "darwin-x86_64": {
+      "signature": "chữ_ký_của_file_dmg_hoặc_tar_gz",
+      "url": "https://github.com/TamTuyet/cotamai/releases/download/v0.1.1/CoTamAi_0.1.1_x64.dmg"
+    },
+    "windows-x86_64": {
+      "signature": "chữ_ký_của_file_exe_hoặc_zip",
+      "url": "https://github.com/TamTuyet/cotamai/releases/download/v0.1.1/CoTamAi_0.1.1_x64_setup.exe"
+    }
+  }
+}
