@@ -5,7 +5,7 @@
   "pub_date": "2026-04-13T17:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "",
+      "signature": "test",
       "url": "https://github.com/TamTuyet/cotamai/releases/download/v0.1.1/CoTamAi_0.1.1_aarch64.dmg"
     },
     "darwin-x86_64": {
@@ -13,7 +13,7 @@
       "url": "https://github.com/TamTuyet/cotamai/releases/download/v0.1.1/CoTamAi_0.1.1_x64.dmg"
     },
     "windows-x86_64": {
-      "signature": "",
+      "signature": "test",
       "url": "https://github.com/TamTuyet/cotamai/releases/download/v0.1.1/CoTamAi_0.1.1_x64_setup.exe"
     }
   }
